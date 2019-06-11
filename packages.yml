@@ -1,0 +1,4 @@
+packages:
+
+  - git: https://github.com/fishtown-analytics/dbt-utils.git  #fishtown-analytics/dbt_utils
+    revision: '0.1.21'
